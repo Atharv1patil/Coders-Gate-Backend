@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_topics",
+  "info": {
+    "displayName": "Topic",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Topic_name": {
+      "type": "string"
+    },
+    "content": {
+      "displayName": "Content",
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.content"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_videotopics",
+  "info": {
+    "displayName": "videotopic"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "blocks"
+    },
+    "videoUrl": {
+      "type": "string"
+    }
+  }
+}

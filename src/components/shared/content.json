@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_contents",
+  "info": {
+    "displayName": "Content",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "info_course": {
+      "type": "text"
+    },
+    "Example": {
+      "type": "text"
+    }
+  }
+}
